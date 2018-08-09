@@ -14,9 +14,16 @@ This repository is meant to create a simple story board for demonstrating Servic
 
 ## Example 1: Microsoft Azure Resource Group
 
+Leverage the following link to provision a single Linux Instance within Azure.
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/terraform-create-complete-vm
 
 
 ## Example 2: Kubernetes Cluster (GKE)
+
+Leverage the following link to provision a GKE Cluster in Google Compute. 
+
+https://github.com/hashicorp/terraform-guides/tree/master/infrastructure-as-code/k8s-cluster-gke
 
 
 ## Artifacts

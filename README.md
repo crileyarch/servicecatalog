@@ -14,19 +14,17 @@ This repository is meant to create a simple story board for demonstrating Servic
 
 ## Example 1: Microsoft Azure Resource Group
 
-Leverage the following link to provision a single Linux Instance within Azure.
+A simple Terraform example that creates a Linux VM is located in the Azure folder and is detailed in the following link:
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/linux/terraform-create-complete-vm
 
 
 ## Example 2: Kubernetes Cluster (GKE)
 
-Leverage the following link to provision a GKE Cluster in Google Compute. 
-
+A simple Terraform example that creates a GKE Cluster is located in the GKE folder and is detailed in the following link:
 https://github.com/hashicorp/terraform-guides/tree/master/infrastructure-as-code/k8s-cluster-gke
 
 
 ## Artifacts
 
-The artifacts for this work will include the Terraform templates which are stored in this repository along with a presentation that will be developed to articulate a Service Catalog notion leveraging ServiceNow capabilities.
-
+The Azure/terraform_azure.tf and GKE/terraform_gke.tf artifacts provide examplars that can be used in a service catalog demonstration. 
